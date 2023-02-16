@@ -1,2 +1,2 @@
-# Task-Application
-An application that allows to enter a task and add to a list 
+# Counter-Application
+An application that implements two counters. One that runs forward and one that runs backwards.
